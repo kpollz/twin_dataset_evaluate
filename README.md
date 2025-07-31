@@ -111,7 +111,7 @@ Thay vì chỉ nhìn vào giá trị trung bình, hãy tìm giá trị **tệ nh
 
 ---
 
-###C. Tạo một "Điểm Chất Lượng Tổng Thể" duy nhất
+### C. Tạo một "Điểm Chất Lượng Tổng Thể" duy nhất
 
 Đây là cách tiếp cận cao cấp nhất, kết hợp tất cả các chỉ số thành **một con số cuối cùng** để đánh giá toàn bộ bộ dữ liệu.
 
